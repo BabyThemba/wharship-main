@@ -1,0 +1,10 @@
+.root {
+    -fx-background-image: url("R.jpg");
+}
+
+#lable {
+    -fx-border:solid;
+
+}
+
+
